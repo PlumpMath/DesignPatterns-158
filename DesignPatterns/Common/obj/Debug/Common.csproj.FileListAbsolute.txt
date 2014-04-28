@@ -1,0 +1,5 @@
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\Common\bin\Debug\Common.dll
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\Common\bin\Debug\Common.pdb
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\Common\obj\Debug\Common.dll
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\Common\obj\Debug\Common.pdb

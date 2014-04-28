@@ -1,0 +1,9 @@
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\DesignPatternsTest\bin\Debug\DesignPatternsTest.dll
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\DesignPatternsTest\bin\Debug\DesignPatternsTest.pdb
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\DesignPatternsTest\bin\Debug\DesignPatternsLibrary.dll
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\DesignPatternsTest\bin\Debug\DesignPatternsLibrary.pdb
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\DesignPatternsTest\obj\Debug\DesignPatternsTest.csprojResolveAssemblyReference.cache
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\DesignPatternsTest\obj\Debug\DesignPatternsTest.dll
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\DesignPatternsTest\obj\Debug\DesignPatternsTest.pdb
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\DesignPatternsTest\bin\Debug\Common.dll
+C:\Users\Monica Rodrigues\Documents\PROJECTS\dev\DesignPatterns\DesignPatternsTest\bin\Debug\Common.pdb
