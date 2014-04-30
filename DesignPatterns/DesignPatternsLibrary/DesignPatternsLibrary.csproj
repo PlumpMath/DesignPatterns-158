@@ -43,6 +43,12 @@
     <Compile Include="CompositePattern\IProduct.cs" />
     <Compile Include="CompositePattern\SimpleProduct.cs" />
     <Compile Include="DecoratorPattern\DiscountProduct.cs" />
+    <Compile Include="ObserverPattern\Auction.cs" />
+    <Compile Include="ObserverPattern\Bid.cs" />
+    <Compile Include="ObserverPattern\Bidder.cs" />
+    <Compile Include="ObserverPattern\BidList.cs" />
+    <Compile Include="ObserverPattern\IBidder.cs" />
+    <Compile Include="ObserverPattern\IBidList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

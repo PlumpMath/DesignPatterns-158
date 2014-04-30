@@ -53,6 +53,7 @@
     <Compile Include="CompositePattern\ComposedProductTest.cs" />
     <Compile Include="CompositePattern\SimpleProductTest.cs" />
     <Compile Include="DecoratorPattern\DiscountProductTest.cs" />
+    <Compile Include="ObserverPattern\AuctionTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
